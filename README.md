@@ -9,7 +9,7 @@
 
 | 원본 이미지 | 카툰 렌더링 결과 |
 |-------------|------------------|
-| ![원본](your_image.jpg) | ![결과](cartoon_output.jpg) |
+| ![원본](Good_Example.jpg) | ![결과](cartoon_output_good.jpg) |
 
 ---
 
@@ -18,7 +18,7 @@
 
 | 원본 이미지 | 카툰 렌더링 결과 |
 |-------------|------------------|
-| ![원본](bad_example.jpg) | ![결과](bad_example_output.jpg) |
+| ![원본](Bad_Example.jpg) | ![결과](bad_example_output_bad.jpg) |
 
 ---
 
